@@ -24,3 +24,7 @@ os processos anteriormente apresentados.
 
 Em suma, concluído o processo de automação, o profissional terá ganhos de produtividade significativos.
 
+## **REFERÊNCIAS:** ##
+
+* Código Quant - Finanças Quantitativas
+
